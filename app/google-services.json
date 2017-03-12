@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "813596178132",
+    "firebase_url": "https://first-pjt-b996a.firebaseio.com",
+    "project_id": "first-pjt-b996a",
+    "storage_bucket": "first-pjt-b996a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813596178132:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813596178132-5shp57bg9fitr6ou741u2cs202m5jdeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNoI9Z9wX9DLd4EZCiXIf_LrJTX8sjk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
